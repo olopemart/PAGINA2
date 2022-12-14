@@ -28,13 +28,6 @@ p {
     font-size: 12px;
 }
 
-table {
-    border: black 2px solid;
-    border-collapse: collapse;
-    empty-cells: hide;
-    text-align: 
-}
-
 #neg {
     text-align: center;
     color: green;
