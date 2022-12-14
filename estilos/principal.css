@@ -7,8 +7,8 @@
     width: 96%;
     height: 150px;
     padding: 0% 2%;
-    background-color: #0F76A0;
-    background-image: url("../imaxes/fondoazul.jpg");
+    background-color: #003363;
+    background-image: url("");
 }
 #cabeceralogo > div {
     width: 960px;
@@ -17,13 +17,13 @@
 }
 #cabeceralogo h1 {
     font: bold 54px Arial, sans-serif;
-    color: #FFFFFF;
+    color: #000000;
 }
 #menuprincipal {
     width: 96%;
     height: 50px;
     padding: 0% 2%;
-    background-color: #9FC8D9;
+    background-color: #1a143d;
     border-top: 1px solid #094660;
     border-bottom: 1px solid #094660;
 }
@@ -84,6 +84,7 @@
 main {
     width: 96%;
     padding: 2%;
+    background-color: #333333;
     /*background-image: url("../imaxes/fondoazul.jpg"); apartado_f*/ 
 }
 main > div {
