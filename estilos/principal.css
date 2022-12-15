@@ -95,7 +95,7 @@ main > div {
     float: left;
     width: 620px;
     padding-top: 30px;
-    background-color: #FFFFFF;
+    background-color: #bea0ee;
     border-radius: 10px;
     
 }
@@ -156,13 +156,16 @@ figure img {
 #pielogo {
     width: 96%;
     padding: 2%;
-    background-color: #0F76A0;
+    background-color: #2725c9;
+    
+    
 }
 #pielogo > div {
     width: 960px;
     margin: 0px auto;
-    background-color: #9FC8D9;
+    background-color: #8b8bdb;
     border-radius: 10px;
+    border-color: #ffffff;
 }
 
 .seccionpie {
