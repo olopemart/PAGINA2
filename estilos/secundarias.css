@@ -101,8 +101,8 @@ main {
 
     background-image: url("../img/CABEZA.jpg");
     background-repeat:no-repeat;
-    background-position-x:center;
-    background-position-y:center;
+    background-position-x:left;
+    background-position-y:left;
     background-size: 250rem;
 }
 
