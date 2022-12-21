@@ -179,10 +179,7 @@ figure {
 
 figure img {
     padding: 5px;
-    border: 5px solid;
-    border-color: #ffffff;
-    border-radius: 10px;
-    border-collapse: collapse;
+    border: none;
 }
 
 #pielogo {
